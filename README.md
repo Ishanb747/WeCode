@@ -23,7 +23,7 @@
 
 ## Overview
 
-WeCode is a real-time collaborative coding platform designed for:
+WeCode is a real-time collaborative coding platform designed for :
 
 - DSA Practice  
 - Pair Programming  
